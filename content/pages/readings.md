@@ -34,7 +34,7 @@ READINGS
 {{< tdclose >}}{{< tdopen >}}
 Introduction
 {{< tdclose >}}{{< tdopen >}}
-[_A Midwife's Tale_](http://www.imdb.com/title/tt0117044/)_._ (The film version.)
+{{% resource_link "8c8b256e-0b5a-4ea2-94df-7a70b58793f3" "_A Midwife's Tale_" %}}_._ (The film version.)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -130,7 +130,7 @@ Drafts Due
 {{< tdclose >}}{{< tdopen >}}
 Sunday Field Trip
 {{< tdclose >}}{{< tdopen >}}
-Excursion to Peabody-Essex Museum to tour the [Chinese Merchant's House](http://www.pem.org/yinyutang/) .
+Excursion to Peabody-Essex Museum to tour the {{% resource_link "7af22387-1015-4dfd-ab6e-b62eda2439d5" "Chinese Merchant's House" %}} .
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
