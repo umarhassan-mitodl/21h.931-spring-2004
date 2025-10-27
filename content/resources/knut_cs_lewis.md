@@ -4,8 +4,6 @@ description: A sample of a student response to a reading assignment.
 file: /courses/21h-931-seminar-in-historical-methods-spring-2004/e65985dfa5435073342e5b924ab507d5_knut_cs_lewis.pdf
 file_size: 49760
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

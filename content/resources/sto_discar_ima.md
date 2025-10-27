@@ -4,8 +4,6 @@ description: A sample of a student response to a reading assignment.
 file: /courses/21h-931-seminar-in-historical-methods-spring-2004/be7caefbab1d9d5f6abba0b97e5de8a7_sto_discar_ima.pdf
 file_size: 77565
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
